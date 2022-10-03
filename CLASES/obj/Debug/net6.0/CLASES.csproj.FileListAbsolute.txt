@@ -1,0 +1,14 @@
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.Properties.Resources.resources
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.csproj.GenerateResource.cache
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.AssemblyInfoInputs.cache
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.AssemblyInfo.cs
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\bin\Debug\net6.0\CLASES.deps.json
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\bin\Debug\net6.0\CLASES.dll
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\bin\Debug\net6.0\CLASES.pdb
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.dll
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\refint\CLASES.dll
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\CLASES.pdb
+C:\Users\Cristhian\Desktop\LIBRERIA\CLASES\obj\Debug\net6.0\ref\CLASES.dll
